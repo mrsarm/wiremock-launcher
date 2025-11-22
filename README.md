@@ -39,7 +39,7 @@ If running WireMock with Docker (default), the `mappings` and `__files`
 folders will be created in this same directory but with `root` permissions
 only, so if you want to edit them, just run before:
 
-```sh
+```bash
 sudo chown $USER -R __files/ mappings/
 ```
 
