@@ -1,7 +1,7 @@
 WireMock Launcher
 =================
 
-[WireMock](https://wiremock.org/docs/standalone/) Launcher scripts.
+[WireMock](https://wiremock.org/) Launcher scripts.
 
 The launcher uses by default Docker to run WireMock, but
 if you have Java 11+ installed, you can run WireMock directly,
@@ -26,6 +26,11 @@ The following scripts are provided:
    if you run WireMock with Docker, although read the rules to
    see if they apply to you local setup.
 
+
+### Useful links
+
+- [WireMock Standalone Service](https://wiremock.org/docs/standalone/)
+- [Request Matching](https://wiremock.org/docs/request-matching/)
 
 
 ### About
